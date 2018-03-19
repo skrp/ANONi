@@ -5,6 +5,7 @@ usr => ip4 => ANONi => usr@host
 # SEASON ###############################
 Seasonal unix jail one time use accounts
 # OTOPSK ###############################
+Get krip key
 Set keys to the jails accounts
 # MARKET ###############################
 Put keys on the network for access
