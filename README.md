@@ -1,2 +1,11 @@
-# ANONi
- Anonymous interface to network
+########################################
+# ANONi - Anonymous interface to network
+########################################
+usr => ip4 => ANONi => usr@host
+# SEASON ###############################
+Seasonal unix jail one time use accounts
+# OTOPSK ###############################
+Set keys to the jails accounts
+# MARKET ###############################
+Put keys on the network for access
+########################################
